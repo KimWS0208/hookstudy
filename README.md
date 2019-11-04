@@ -6,3 +6,5 @@
 -useClick
 -useInput
 -useConfirm
+-usePreventLeave
+-useBeforeLeave
