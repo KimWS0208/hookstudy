@@ -8,3 +8,7 @@
 -useConfirm
 -usePreventLeave
 -useBeforeLeave
+-useFadeIn
+-useNetwork
+-useScroll
+-useFullscreen
